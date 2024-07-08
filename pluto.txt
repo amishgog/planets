@@ -1,2 +1,3 @@
 It is so a planet!
-This line is added to Wolfman's copy 
+This line is added to Wolfman's copy
+We added a different second line in the other copy  
